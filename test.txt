@@ -1,1 +1,1 @@
-aku_ctf_flag: 08f7fda00a89ef46
+flag{08f7fda00a89ef46}
